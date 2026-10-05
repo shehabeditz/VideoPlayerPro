@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video Player Pro</string>
+    <string name="app_title">Video Player Pro</string>
+    <string name="tab_videos">ভিডিও</string>
+    <string name="tab_music">গান</string>
+    <string name="search">খুঁজুন</string>
+    <string name="search_hint">খুঁজুন…</string>
+    <string name="view_toggle">লিস্ট / গ্রিড</string>
+    <string name="sort">সাজান</string>
+    <string name="folder_view">ফোল্ডার ভিউ</string>
+    <string name="theme">থিম</string>
+    <string name="local_files">লোকাল ফাইল</string>
+    <string name="history">হিস্ট্রি</string>
+    <string name="network_stream">নেটওয়ার্ক স্ট্রিম</string>
+    <string name="settings">সেটিংস</string>
+    <string name="about">সম্পর্কে</string>
+    <string name="privacy_policy">প্রাইভেসি পলিসি</string>
+    <string name="terms_of_use">ব্যবহারের শর্তাবলি</string>
+    <string name="contact_us">যোগাযোগ করুন</string>
+    <string name="privacy_policy_text">Video Player Pro কোনো ব্যক্তিগত তথ্য সংগ্রহ, সংরক্ষণ বা শেয়ার করে না। আপনার ভিডিও ও গান আপনার ডিভাইসেই থাকে।\n\nইন্টারনেট পারমিশন শুধু আপনার নিজে দেওয়া নেটওয়ার্ক স্ট্রিম (URL) চালানোর জন্য ব্যবহৃত হয়। Resume পজিশন, হিস্ট্রি ও বুকমার্ক শুধু আপনার ডিভাইসে সেভ থাকে।</string>
+    <string name="terms_text">আপনি এই প্লেয়ারটি ব্যক্তিগত কাজে ব্যবহার করতে পারবেন। অ্যাপটি \"যেমন আছে তেমন\" অবস্থায় দেওয়া হয়েছে, কোনো ধরনের গ্যারান্টি ছাড়া।</string>
+    <string name="no_mail_app">কোনো ইমেইল অ্যাপ পাওয়া যায়নি</string>
+    <string name="close">বন্ধ করুন</string>
+    <string name="ok">ঠিক আছে</string>
+    <string name="cancel">বাতিল</string>
+    <string name="play">চালান</string>
+    <string name="pause">থামান</string>
+    <string name="reset">রিসেট</string>
+    <string name="off">বন্ধ</string>
+    <string name="jump">এখানে যান</string>
+    <string name="unknown">অজানা</string>
+    <string name="unknown_video">অজানা ভিডিও</string>
+    <string name="unknown_artist">অজানা শিল্পী</string>
+    <string name="version">ভার্সন</string>
+    <string name="stream_url_hint">ভিডিওর URL (http/https, HLS, DASH)</string>
+    <string name="invalid_url">সঠিক http/https লিংক দিন</string>
+    <string name="history_empty">এখনো কিছু দেখা হয়নি</string>
+    <string name="clear_history">হিস্ট্রি মুছুন</string>
+    <string name="clear_history_confirm">সব হিস্ট্রি ও সেভ করা Resume পজিশন মুছে ফেলবেন?</string>
+    <string name="remove_from_history">হিস্ট্রি থেকে সরান</string>
+    <string name="badge_new">নতুন</string>
+    <string name="no_videos">এই ডিভাইসে কোনো ভিডিও পাওয়া যায়নি</string>
+    <string name="no_music">এই ডিভাইসে কোনো গান পাওয়া যায়নি</string>
+    <string name="no_results">কোনো ফলাফল নেই</string>
+    <string name="permission_needed_message">ভিডিও ও গান দেখাতে অ্যাপকে মিডিয়া অ্যাক্সেসের অনুমতি দিন।</string>
+    <string name="grant_permission">অনুমতি দিন</string>
+    <string name="open_settings">সেটিংসে যান</string>
+    <string name="limited_access_message">শুধু আপনার বেছে নেওয়া ভিডিওগুলো দেখা যাচ্ছে। সব দেখতে সেটিংসে গিয়ে সব ভিডিওর অ্যাক্সেস দিন।</string>
+    <string name="share">শেয়ার</string>
+    <string name="rename">নাম পরিবর্তন</string>
+    <string name="delete">মুছুন</string>
+    <string name="info">তথ্য</string>
+    <string name="deleted">মুছে ফেলা হয়েছে</string>
+    <string name="renamed">নাম পরিবর্তন হয়েছে</string>
+    <string name="rename_failed">ফাইলের নাম বদলানো যায়নি</string>
+    <string name="delete_failed">ফাইলটি মোছা যায়নি</string>
+    <string name="delete_confirm">\"%1$s\" মুছে ফেলবেন? এটি আর ফেরানো যাবে না।</string>
+    <string name="file_info_format">নাম: %1$s\nফোল্ডার: %2$s\nসাইজ: %3$s\nসময়: %4$s\nরেজোলিউশন: %5$s\nযোগ হয়েছে: %6$s</string>
+    <string name="back">পিছনে</string>
+    <string name="rotate">ঘোরান</string>
+    <string name="lock">লক</string>
+    <string name="unlock">আনলক</string>
+    <string name="menu">মেনু</string>
+    <string name="previous">আগেরটি</string>
+    <string name="next">পরেরটি</string>
+    <string name="play_pause">চালান / থামান</string>
+    <string name="pip_mode">পিকচার ইন পিকচার</string>
+    <string name="screenshot">স্ক্রিনশট</string>
+    <string name="subtitle">সাবটাইটেল</string>
+    <string name="resize">আকার</string>
+    <string name="player_start_failed">প্লেয়ার চালু করা যায়নি</string>
+    <string name="no_video_to_play">চালানোর মতো ভিডিও নেই</string>
+    <string name="last_video">এটি শেষ ভিডিও</string>
+    <string name="first_video">এটি প্রথম ভিডিও</string>
+    <string name="cant_play_video">এই ভিডিও চালানো যাচ্ছে না (%1$s)</string>
+    <string name="screen_locked">স্ক্রিন লক করা হয়েছে</string>
+    <string name="pip_unavailable">পিকচার-ইন-পিকচার পাওয়া যাচ্ছে না</string>
+    <string name="resume_title">আবার শুরু করবেন?</string>
+    <string name="resume_message">%1$s থেকে চালিয়ে যাবেন?</string>
+    <string name="resume">চালিয়ে যান</string>
+    <string name="start_over">শুরু থেকে</string>
+    <string name="background_play">ব্যাকগ্রাউন্ড প্লে</string>
+    <string name="background_play_on">ব্যাকগ্রাউন্ড প্লে: চালু</string>
+    <string name="background_play_off">ব্যাকগ্রাউন্ড প্লে: বন্ধ</string>
+    <string name="background_play_summary">প্লেয়ার থেকে বের হলেও নোটিফিকেশনসহ শব্দ চলতে থাকবে</string>
+    <string name="repeat_off">রিপিট: বন্ধ</string>
+    <string name="repeat_all">রিপিট: সব</string>
+    <string name="repeat_one">রিপিট: একটি</string>
+    <string name="shuffle_on">শাফল: চালু</string>
+    <string name="shuffle_off">শাফল: বন্ধ</string>
+    <string name="video_info">ভিডিওর তথ্য</string>
+    <string name="video_info_format">নাম: %1$s\nরেজোলিউশন: %2$s\nকোডেক: %3$s\nসময়: %4$s</string>
+    <string name="audio_track">অডিও ট্র্যাক</string>
+    <string name="playback_settings">স্পিড ও পিচ</string>
+    <string name="speed_label">স্পিড: %1$.2fx</string>
+    <string name="pitch_label">পিচ: %1$.2fx</string>
+    <string name="ab_repeat">A-B রিপিট</string>
+    <string name="ab_a_set">%1$s এ পয়েন্ট A সেট হয়েছে। পয়েন্ট B সেট করতে আবার মেনু থেকে বেছে নিন</string>
+    <string name="ab_invalid">পয়েন্ট B, পয়েন্ট A এর পরে হতে হবে</string>
+    <string name="ab_running">%1$s – %2$s রিপিট হচ্ছে</string>
+    <string name="ab_cleared">A-B রিপিট বন্ধ হয়েছে</string>
+    <string name="bookmarks">বুকমার্ক</string>
+    <string name="bookmark_add_here">+ %1$s এ বুকমার্ক যোগ করুন</string>
+    <string name="bookmark_added">বুকমার্ক যোগ হয়েছে</string>
+    <string name="frame_next">পরের ফ্রেম</string>
+    <string name="frame_prev">আগের ফ্রেম</string>
+    <string name="equalizer">ইকুয়ালাইজার</string>
+    <string name="equalizer_enable">ইকুয়ালাইজার চালু করুন</string>
+    <string name="equalizer_unsupported">এই ডিভাইসে ইকুয়ালাইজার সমর্থিত নয়</string>
+    <string name="bass_boost">বেজ বুস্ট</string>
+    <string name="night_mode">নাইট মোড</string>
+    <string name="night_mode_on">নাইট মোড: চালু</string>
+    <string name="sleep_timer">স্লিপ টাইমার</string>
+    <string name="sleep_timer_off">স্লিপ টাইমার বন্ধ করা হয়েছে</string>
+    <string name="sleep_timer_set">%1$d মিনিট পরে প্লে থেমে যাবে</string>
+    <string name="minutes_n">%1$d মিনিট</string>
+    <string name="seconds_n">%1$d সেকেন্ড</string>
+    <string name="lock_controls">কন্ট্রোল লক</string>
+    <string name="resize_aspect">আকার / অ্যাসপেক্ট রেশিও</string>
+    <string name="resize_fit">ফিট</string>
+    <string name="resize_fill">ফিল</string>
+    <string name="resize_zoom">জুম (ক্রপ)</string>
+    <string name="subtitle_tracks">সাবটাইটেল ট্র্যাক</string>
+    <string name="subtitle_load_file">সাবটাইটেল ফাইল লোড করুন (.srt / .vtt / .ass)</string>
+    <string name="subtitle_style">সাবটাইটেলের স্টাইল</string>
+    <string name="subtitle_size">সাইজ</string>
+    <string name="subtitle_color">রং</string>
+    <string name="subtitle_background">ব্যাকগ্রাউন্ড</string>
+    <string name="subtitle_loaded">সাবটাইটেল লোড হয়েছে: %1$s</string>
+    <string name="color_white">সাদা</string>
+    <string name="color_yellow">হলুদ</string>
+    <string name="color_green">সবুজ</string>
+    <string name="color_cyan">আসমানি</string>
+    <string name="screenshot_unavailable">স্ক্রিনশট এখনো নেওয়া যাচ্ছে না</string>
+    <string name="screenshot_failed">স্ক্রিনশট নেওয়া যায়নি</string>
+    <string name="screenshot_unsupported">এই ডিভাইসে স্ক্রিনশট সমর্থিত নয়</string>
+    <string name="screenshot_saved">স্ক্রিনশট সেভ হয়েছে</string>
+    <string name="screenshot_error">স্ক্রিনশট সেভ করতে সমস্যা হয়েছে</string>
+    <string name="settings_appearance">চেহারা</string>
+    <string name="settings_player">প্লেয়ার</string>
+    <string name="settings_subtitles">সাবটাইটেল</string>
+    <string name="dynamic_color">ডায়নামিক কালার</string>
+    <string name="dynamic_color_summary">ওয়ালপেপারের রং ব্যবহার করুন (Android 12+)</string>
+    <string name="language">ভাষা</string>
+    <string name="language_system">সিস্টেম ডিফল্ট</string>
+    <string name="double_tap_time">ডাবল-ট্যাপ সিকের সময়</string>
+    <string name="gestures">সোয়াইপ জেসচার</string>
+    <string name="gestures_summary">সোয়াইপ করে সিক, ব্রাইটনেস ও ভলিউম</string>
+    <string name="long_press_speed">লং-প্রেসে ২x স্পিড</string>
+    <string name="long_press_speed_summary">স্ক্রিন চেপে ধরলে দ্বিগুণ গতিতে চলবে</string>
+    <string name="default_orientation">ডিফল্ট ওরিয়েন্টেশন</string>
+    <string name="ask_resume">চালিয়ে যাওয়ার আগে জিজ্ঞাসা</string>
+    <string name="ask_resume_summary">আগে দেখা ভিডিওতে \"চালিয়ে যান / শুরু থেকে\" দেখাবে</string>
+    <string name="decoder">ডিকোডার</string>
+    <string name="decoder_restart_note">ডিকোডার পরিবর্তন পরের বার প্লে শুরু হলে কার্যকর হবে</string>
+    <string-array name="sort_options">
+        <item>যোগ করার তারিখ (নতুন আগে)</item>
+        <item>যোগ করার তারিখ (পুরোনো আগে)</item>
+        <item>নাম A–Z</item>
+        <item>নাম Z–A</item>
+        <item>সাইজ (বড় আগে)</item>
+        <item>সাইজ (ছোট আগে)</item>
+        <item>সময় (বেশি আগে)</item>
+        <item>সময় (কম আগে)</item>
+    </string-array>
+    <string-array name="theme_options">
+        <item>সিস্টেম ডিফল্ট</item>
+        <item>লাইট</item>
+        <item>ডার্ক</item>
+        <item>AMOLED কালো</item>
+    </string-array>
+    <string-array name="orientation_options">
+        <item>অটো (ভিডিওর আকার অনুযায়ী)</item>
+        <item>ল্যান্ডস্কেপ</item>
+        <item>পোর্ট্রেট</item>
+        <item>সিস্টেম</item>
+    </string-array>
+    <string-array name="decoder_options">
+        <item>HW (হার্ডওয়্যার)</item>
+        <item>HW+ (হার্ডওয়্যার, প্রয়োজনে সফটওয়্যার)</item>
+        <item>SW (আগে সফটওয়্যার)</item>
+    </string-array>
+    <plurals name="video_count">
+        <item quantity="one">%d টি ভিডিও</item>
+        <item quantity="other">%d টি ভিডিও</item>
+    </plurals>
+</resources>

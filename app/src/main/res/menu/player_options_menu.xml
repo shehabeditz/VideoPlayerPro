@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_bg_play" android:title="@string/background_play_off" />
+    <item android:id="@+id/menu_repeat" android:title="@string/repeat_off" />
+    <item android:id="@+id/menu_shuffle" android:title="@string/shuffle_off" />
+    <item android:id="@+id/menu_info" android:title="@string/video_info" />
+    <item android:id="@+id/menu_audio" android:title="@string/audio_track" />
+    <item android:id="@+id/menu_subtitle" android:title="@string/subtitle" />
+    <item android:id="@+id/menu_speed" android:title="@string/playback_settings" />
+    <item android:id="@+id/menu_ab" android:title="@string/ab_repeat" />
+    <item android:id="@+id/menu_bookmarks" android:title="@string/bookmarks" />
+    <item android:id="@+id/menu_frame_next" android:title="@string/frame_next" />
+    <item android:id="@+id/menu_frame_prev" android:title="@string/frame_prev" />
+    <item android:id="@+id/menu_equalizer" android:title="@string/equalizer" />
+    <item android:id="@+id/menu_night" android:title="@string/night_mode" />
+    <item android:id="@+id/menu_sleep" android:title="@string/sleep_timer" />
+    <item android:id="@+id/menu_lock" android:title="@string/lock_controls" />
+    <item android:id="@+id/menu_resize" android:title="@string/resize_aspect" />
+</menu>

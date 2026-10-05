@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_local_files"
+            android:icon="@drawable/ic_folder"
+            android:title="@string/local_files" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_history"
+            android:title="@string/history" />
+        <item
+            android:id="@+id/nav_stream"
+            android:icon="@drawable/ic_stream"
+            android:title="@string/network_stream" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/settings" />
+    </group>
+
+    <item android:title="@string/about">
+        <menu>
+            <item
+                android:id="@+id/nav_privacy"
+                android:icon="@drawable/ic_policy"
+                android:title="@string/privacy_policy" />
+            <item
+                android:id="@+id/nav_terms"
+                android:icon="@drawable/ic_description"
+                android:title="@string/terms_of_use" />
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_mail"
+                android:title="@string/contact_us" />
+        </menu>
+    </item>
+</menu>
